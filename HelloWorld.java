@@ -4,7 +4,7 @@ public class HelloWorld {
     }
 
     public static void greet() {
-    System.out.println("Hello from the feature branch!");
+    System.out.println("Hello from the main branch!");
 }
 
 }
