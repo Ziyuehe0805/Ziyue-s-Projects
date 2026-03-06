@@ -1,10 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello!");
+        System.out.println("Hello World. Change made to main from main branch");
     }
-
-    public static void greet() {
-    System.out.println("Hello from the main branch!");
-}
-
 }
