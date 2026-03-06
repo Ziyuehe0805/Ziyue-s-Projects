@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello World. Change made to main from main branch");
+        System.out.println("Hello World! Conflict resolved manually");
     }
 }
